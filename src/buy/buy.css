@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-sizing:border-box;
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.buy{
+    /*background: orange;*/
+}
+.buy .buy-list{
+   width: 100%;
+   hright:1.88rem;
+
+}
+.buy .buy-list ul{
+    display: flex;
+    font-size: 
+}

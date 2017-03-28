@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <script src="lib/require.js" type="text/javascript" charset="utf-8" data-main="app"></script>
+        <link rel="stylesheet" href="src/common/css/main.css">
+        <script>
+        window.onload=function(){
+            ;(function(win,doc){
+                function fnSize(){
+                    doc.documentElement.style.fontSize=20*doc.documentElement.clientWidth/320+'px';
+                }
+                fnSize();
+                win.addEventListener('resize',fnSize,false);
+            })(window,document);
+        };
+        </script>
+       
+	</head>
+	<body>
+        
+        <nav id="navigation">
+            <a href="#/home" class="logo"></a>
+            <ul>
+                <li><a href="#/active">生活</a></li>
+                <li><a href="#/des">目的地</a></li>
+                <li><a href="#/brand">品牌</a></li>
+                <li><a href="#/buy">购买</a></li>
+            </ul>
+            <a href="#/search" class="search"></a>
+        </nav>
+        
+       <div id="container"></div>
+       <footer>
+           <div class="logo">
+               <img src="//s.xiaohongshu.com/s/mobile-download/*/lib/img/bottom-logo.png" alt="小红书购物攻略">
+           </div>
+           <div class="app-info">
+               <p class="app-name">带你找到全世界的好东西</p>
+           </div>
+           <div class="download-btn">打开APP</div>
+       </footer>
+	</body>
+</html>

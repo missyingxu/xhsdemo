@@ -1,0 +1,72 @@
+{
+	"data": [
+		{
+			"auto_scroll": true,
+			"model_type": "banner",
+			"id": "58d28db432835222524bdaa0",
+			"ads_list": [
+				{
+					"image": "http://img.xiaohongshu.com/sale_event/61109b8a092b8402674eb883dfad7586@.jpg",
+					"link": "http://www.xiaohongshu.com/life_lab/58be437634609430a8db022e?xhs_g_s=0054",
+					"id": "58be437634609430a8db022e"
+				}, {
+					"image": "http://img.xiaohongshu.com/sale_event/6d48ffa83e88f7a262e806e356fcb681@.jpg",
+					"link": "xhsdiscover://goodslist/sale_event/58ccdda18340c323d3d8d43c?mode=0054",
+					"id": "58ccdda18340c323d3d8d43c"
+				}, {
+					"image": "http://img.xiaohongshu.com/sale_event/5292c69845ff5161239a858759141ecd@.jpg",
+					"link": "http://www.xiaohongshu.com/life_lab/58ca831834609463785a4cfa?xhs_g_s=0054",
+					"id": "58ca831834609463785a4cfa"
+				}, {
+					"image": "http://img.xiaohongshu.com/sale_event/2ff0e443c84114559ee893f1432eb14e@.jpg",
+					"link": "xhsdiscover://goodslist/sale_event/58cf4312a8e2915cf5ad573a?mode=0054",
+					"id": "58cf4312a8e2915cf5ad573a"
+				}, {
+					"image": "http://img.xiaohongshu.com/sale_event/3063c9ea4a90e465c43dd8bc927f8cbe@.jpg",
+					"link": "http://www.xiaohongshu.com/life_lab/58c92f3a3460945bd9899c06?xhs_g_s=0054",
+					"id": "58c92f3a3460945bd9899c06"
+				}, {
+					"image": "http://img.xiaohongshu.com/sale_event/b927915fc22e7639e998748f812027c3@.jpg",
+					"link": "xhsdiscover://goodslist/sale_event/58d239e98340c3203f34c6c8?mode=0054",
+					"id": "58d239e98340c3203f34c6c8"
+				}, {
+					"image": "http://img.xiaohongshu.com/sale_event/c76d8bd626e5848c70c1eb25d9afb371@.jpg",
+					"link": "xhsdiscover://goodslist/sale_event/58ccc476343107234805bd8b?mode=0054",
+					"id": "58ccc476343107234805bd8b"
+				}
+			]
+		}, {
+			"model_type": "channel",
+			"id": "",
+			"ads_list": [
+				{
+					"image": "http://img.xiaohongshu.com/sale_event/ab0b73f0ca0cd39f4577cb02d99cb75d@.jpg",
+					"title": "新草必拔",
+					"link": "xhsdiscover://store/sale_events?channel_id=58b104bb805d8953e6dd9872&title=%E6%96%B0%E8%8D%89%E5%BF%85%E6%8B%94",
+					"id": "58b104bb805d8953e6dd9872",
+					"desc": "科颜氏套装抢先购"
+				}, {
+					"image": "http://img.xiaohongshu.com/sale_event/8d6783b7047c3a8b9a4bf59da47c06bd@.jpg",
+					"title": "仅限今日",
+					"link": "http://www.xiaohongshu.com/goods/58bd4275462839566bb20bd2?xhs_g_s=0065",
+					"id": "58b104bb805d8953e6dd9876",
+					"desc": "瘦腿袜3双99"
+				}, {
+					"image": "http://img.xiaohongshu.com/sale_event/04dcb583fa984c0fd2560d943c0e7258@.jpg",
+					"title": "囤货清单",
+					"link": "http://m.xiaohongshu.com/life_lab/58d24dfc7fc5b84b3d88a177?xhs_g_s=0061",
+					"id": "58c00fc8805d89598b62090b",
+					"desc": "好物搭配更实惠"
+				}, {
+					"image": "http://img.xiaohongshu.com/sale_event/15aa9b90bab4e1d298cecdc3874b3325@.jpg",
+					"title": "红薯拼团",
+					"link": "http://www.xiaohongshu.com/goods/582c256f3283524a902035e5?xhs_g_s=0060",
+					"id": "58b104bb805d8953e6dd9878",
+					"desc": "蕾丝内搭4折团"
+				}
+			]
+		}
+	],
+	"result": 0,
+	"success": true
+}

@@ -1,0 +1,93 @@
+{
+	"data": [
+		{
+			"id": "categoryforall",
+			"name": "全部"
+		}, {
+			"category_ids": [
+				"52ce1c02b4c4d649b58b892c"
+			],
+			"sequence": 0,
+			"id": "577e2a05805d897d07435686",
+			"name": "护肤"
+		}, {
+			"category_ids": [
+				"52ce1c02b4c4d649b58b8930",
+				"52ce1c02b4c4d649b58b892c",
+				"5590c4bf15ff00d961fd14ea",
+				"54f19291b4c4d660f7f18ab6",
+				"52ce1c02b4c4d649b58b892c",
+				"5590c4bf15ff00d961fd14ea",
+				"54f19291b4c4d660f7f18ab6"
+			],
+			"sequence": 1,
+			"id": "577e2a05805d897d0743568a",
+			"name": "彩妆"
+		}, {
+			"category_ids": [
+				"52ce1c02b4c4d649b58b892e",
+				"52ce1c02b4c4d649b58b8933",
+				"52ce1c02b4c4d649b58b892d",
+				"52ce1c02b4c4d649b58b892f",
+				"56a6fa1f8e7989cd56fceaa4"
+			],
+			"sequence": 2,
+			"id": "577e2a05805d897d07435685",
+			"name": "时尚"
+		}, {
+			"category_ids": [
+				"533e8807b4c4d6619c75148e",
+				"55b6740de7798944b479249c",
+				"55b6740de7798944b4792498",
+				"52ce1c02b4c4d649b58b8935"
+			],
+			"sequence": 3,
+			"id": "577e2a05805d897d07435688",
+			"name": "家居"
+		}, {
+			"category_ids": [
+				"52ce1c02b4c4d649b58b8936"
+			],
+			"sequence": 4,
+			"id": "577e2a05805d897d07435684",
+			"name": "母婴"
+		}, {
+			"category_ids": [
+				"5590c4bf15ff00d961fd14ea"
+			],
+			"sequence": 5,
+			"id": "577e2a05805d897d0743568b",
+			"name": "个人护理"
+		}, {
+			"category_ids": [
+				"55b6740de7798944b479249c"
+			],
+			"sequence": 6,
+			"id": "57b1776a805d897db30244d1",
+			"name": "家庭清洁"
+		}, {
+			"category_ids": [
+				"52ce1c02b4c4d649b58b8934"
+			],
+			"sequence": 7,
+			"id": "577e2a05805d897d0743568d",
+			"name": "美食"
+		}, {
+			"category_ids": [
+				"54f19291b4c4d660f7f18ab6"
+			],
+			"sequence": 8,
+			"id": "577e2a05805d897d0743568e",
+			"name": "保健品"
+		}, {
+			"category_ids": [
+				"55b6740de7798944b4792498",
+				"52ce1c02b4c4d649b58b8935"
+			],
+			"sequence": 9,
+			"id": "577e2a06805d897d0743568f",
+			"name": "家电数码"
+		}
+	],
+	"result": 0
+}

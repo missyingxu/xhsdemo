@@ -1,0 +1,32 @@
+{
+	"data": {
+		"attributes": [
+			{
+				"attribute_name": "适宜肤质",
+				"image": null,
+				"text": "毛孔粗大适用",
+				"type": 1
+			}
+		],
+		"faqs": [
+			{
+				"answer": "洁面后，将化妆水请拍在需要收缩毛孔的部分，或者将化妆棉浸湿后，敷在鼻头或者毛孔粗大的地方~后续请再正常使用护肤品进行保湿",
+				"question": "使用方法"
+			}, {
+				"answer": "收敛水含有清凉成分和酒精，敏感肌的红薯可以先在耳后进行少量测试，没有过敏反应再使用~湿敷的红薯，请不要敷的时间过长哦，否则可能会造成刺激~",
+				"question": "用了会不会过敏？"
+			}
+		],
+		"image_desc": [
+			"//img.xiaohongshu.com/items/e7273954bc5f3870fcb0e24f7c47cc81@800w_90Q_1x_2o.jpg",
+			"//img.xiaohongshu.com/items/9d97ce824de05708f55b0724d997644b@800w_90Q_1x_2o.jpg",
+			"//img.xiaohongshu.com/items/4a532fab9395845dc5e32c76e36751f7@800w_90Q_1x_2o.jpg",
+			"//img.xiaohongshu.com/items/3fa73a1176301365ce38b27f66f5dd1d@800w_90Q_1x_2o.jpg"
+		],
+		"user_guide": {
+			"images": [],
+			"videos": []
+		}
+	},
+	"success": true
+}
