@@ -1,0 +1,232 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.single-container{
+	width: 100%;
+	height: 100%;
+}
+.single-container .single-header{
+	width: 100%;
+	height: 2.98rem;
+	background: #0a0a0a;
+	display: flex;
+	padding: .38rem 0 .38rem .38rem;
+	
+}
+.single-container .single-header .icon{
+	width: 2.13rem;
+	height: 2.13rem;
+	/*float: left;*/
+}
+.single-container .single-header .icon img{
+	width: 100%;
+	height: 1005;
+}
+.single-container .single-header .text{
+	color: #fff;
+	margin-left: .3rem;
+}
+.single-container .single-header .text .title{
+	font-size: .6rem;
+}
+.single-container .single-header .text .des{
+	font-size: .5rem;
+	margin-top: .2rem;
+}
+.text .start{
+	height: .49rem;
+	margin-top: -.5rem;
+}
+.start img{
+	height: .49rem;
+}
+.single-container .single-header .btn{
+	width: 1.62rem;
+	height: 1.19rem;
+	background: #ff2741;
+	text-align: center;
+	border-radius: 5px;
+	font-size: .512rem;
+	color: #fff;
+	line-height: 1.19rem;
+	font-weight: 500;
+	margin-left: 2.3rem;
+	margin-top: .6rem;
+	
+}
+
+.swiper-container {
+        width: 100%;
+    }
+.swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+}
+ .swiper-slide>img{
+        width: 100%;
+ }
+ 
+ .swiper-container-horizontal>.swiper-pagination-bullets,
+.swiper-pagination-custom,
+.swiper-pagination-fraction {
+     left: 6.5rem;
+     color: #ccc;
+     font-size: .7rem;
+ }
+ 
+ footer{
+ 	width: 100%;
+ 	height: 2.0315rem;
+    border: 1px solid #e1e1e1;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    z-index: 500;
+    background: #fff;
+ }
+ footer .icon-actions{
+ 	
+ 	height: 100%;
+ 	display: flex;
+ }
+ footer .icon-actions .icon-left{
+ 	width: 2.52rem;
+ 	height: 100%;
+ 	text-align: center;
+ 	padding-bottom: .5rem;
+ }
+ 
+ footer .icon-actions .icon-right{
+ 	width: 2.52rem;
+ 	height: 100%;
+ 	text-align: center;
+ 	padding-bottom: .5rem;
+ }
+ footer .icon-actions .icon-line{
+ 	height: 1.5rem;
+ 	border-right: 1px solid #ccc;
+ 	margin-right: .2rem;
+ 	margin-top: .3rem;
+ }
+ 
+ 
+ footer .icon-actions .icon-left .detail{
+ 	width: .76rem;
+ 	height: .76rem;
+ 	
+ 	
+ }
+ footer .icon-actions .icon-left .detail img{
+ 	width: 100%;
+ 	height: 100%;
+ 	display: inline-block;
+ 	margin-left: .9rem;
+ }
+ footer .icon-actions .icon-left span{
+ 	font-size: .426rem;
+ 	font-weight: 800;
+ 	color: #ccc;
+ 	display: inline-block;
+ 	margin-bottom: .3rem;
+ }
+ 
+ footer .icon-actions .icon-right span{
+ 	font-size: .426rem;
+ 	font-weight: 800;
+ 	color: #ccc;
+ 	display: inline-block;
+ }
+ 
+ footer .icon-actions .icon-right .detail{
+ 	width: .76rem;
+ 	height: .76rem;
+ }
+ footer .icon-actions .icon-right .detail img{
+ 	width: 100%;
+ 	height: 100%;
+ 	display: inline-block;
+ 	margin-left: .9rem;
+ }
+footer .add-cart{
+	width:5.351rem;
+	height: 100%;
+	background: #ff7e8d;
+	font-size: .597rem;
+	color: #fff;
+	text-align: center;
+	font-weight: 600;
+	line-height: 2.0315rem;
+}
+footer .buy-button{
+	width: 5.351rem;
+	height: 100%;
+	background:#ff2741;
+	font-size: .597rem;
+	color: #fff;
+	text-align: center;
+	font-weight: 600;
+	line-height: 2.0315rem;
+}
+
+.sale-container{
+	padding: 0 .4rem;
+}
+.sale-container .item-name{
+	height: 1.933rem;
+	padding: .64rem 0 .42rem;
+	font-size: .7rem;
+	color: #333;
+	font-weight: 600;
+	/*line-height: 1.933rem;*/
+	
+}
+.sale-container .item-brand-section{
+	height: 1.19rem;
+	color: #999;
+	font-size: .59rem;
+	font-weight: 700;
+	line-height: 1.19rem;
+	margin-bottom: .64rem;
+	border-bottom: 1px solid #e6e6e6;
+}
+.sale-container .item-brand-section .item-brand-name{
+	color: #5b92e1;
+	margin-left: .4rem;
+}
+.sale-container .price-info-container .info-limit-time{
+	 display: inline-block;
+	 height: .76rem;
+	 font-size: .512rem;
+	 color: #fff;
+	 background: #ff2741;
+	 border-radius: 3px;
+	 padding:0 .2rem;
+}
+.sale-container .price-info-container .discount-price{
+	color: #ff2741;
+}

@@ -84,6 +84,17 @@ app.get('/getdata_shoes',function(req,res){
     })
 })
 
+// 购物
+app.get('/getdata_shop',function(req,res){
+    fs.readFile(__dirname+'/public/data/shoplist4.json',function(err,data){
+        if(err){
+            console.log(err);
+        }else{
+            res.json(JSON.parse(data));
+        }
+    })
+})
+
 
 app.listen(5002,function(){
     console.log('服务器启动.....')

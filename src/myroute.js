@@ -94,6 +94,7 @@ define(['router','jquery'], function(Router, $) {
         //  $('#container').html('<h2>购买</h2>');
          require(['src/buy/buy.js'],function(buy){
              buy.add();
+             buy.getdata_shop();
          })
      })
 

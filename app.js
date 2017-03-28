@@ -8,11 +8,11 @@ require.config({
          css:'lib/css.min',
          swiper:'lib/swiper-3.3.1.jquery.min',
          baiduTemplate:'lib/baiduTemplate',
-         lazyload:'lib/jquery.lazyload.miny/ '
+         lazyload:'lib/jquery.lazyload.miny/'
      }
 })
 
-require(['myroute'],function(){
+require(['jquery','myroute'],function($){
   // console.log('----')
  
   var hash = location.hash;

@@ -66,7 +66,7 @@ a{
 
 }
 .box .active-left{
-    background:red;
+    /*background:red;*/
     width:7.42rem;
     float: left;
     height:50px;
